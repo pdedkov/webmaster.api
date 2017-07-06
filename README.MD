@@ -23,7 +23,7 @@ add into composer.json
 or
 
 ```
-php composer.phar require yandex/webmaster.api "dev-master"
+php composer.phar require pdedkov/webmaster.api "dev-master"
 ```
 
 
