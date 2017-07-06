@@ -14,7 +14,7 @@ add into composer.json
 {
     "require": {
         ...
-        "yandex/webmaster.api": "dev-master"
+        "pdedkov/webmaster.api": "dev-master"
         ...
     }
 }
@@ -33,7 +33,7 @@ Also required prior to placing the package on packagist.org
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/yandex/webmaster.api"
+            "url": "https://github.com/pdedkov/webmaster.api"
         }
     ]
     ...

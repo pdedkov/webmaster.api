@@ -83,7 +83,7 @@ class webmasterApi
      *
      * @var boolean
      */
-    public $triggerError = true;
+    public $triggerError = false;
 
 
     /**
