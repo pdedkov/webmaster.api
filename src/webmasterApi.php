@@ -58,7 +58,7 @@ class webmasterApi
      *
      * @var string
      */
-    private $apiUrl = 'https://api.webmaster.yandex.net/v3';
+    private $apiUrl = 'https://api.webmaster.yandex.net/v3.2';
 
     /**
      * UserID in webmaster
